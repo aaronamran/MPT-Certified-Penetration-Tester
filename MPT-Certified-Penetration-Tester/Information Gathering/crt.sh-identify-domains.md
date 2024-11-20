@@ -13,5 +13,5 @@ Certificate Transparency logs provide a public record of all trusted digital cer
 - Ensure the Python program prints at least three (3) target sub-domains related to the searched organization
 
 
-## Solutions With Scripts
+## Practical Approach
 1. 
