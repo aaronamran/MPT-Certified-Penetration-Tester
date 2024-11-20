@@ -9,7 +9,7 @@ DNS servers map domain names to IP addresses, allowing users to access websites 
 - Use NMAP to perform a DNS zone check scan on a DNS server
 
 
-## Solutions With Scripts
+## Practical Approach
 1. To perform a DNS zone check scan on a DNS server, the IP address of a target DNS server is required
 2. In Kali Linux, use nslookup on a target domain to output the authoritative DNS servers for eccouncil.org
    ```
