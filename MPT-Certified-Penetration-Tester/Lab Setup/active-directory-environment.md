@@ -15,5 +15,5 @@
 - Show the list of users that have been created
 
 
-## Solutions With Scripts
+## Practical Approach
 1. 
