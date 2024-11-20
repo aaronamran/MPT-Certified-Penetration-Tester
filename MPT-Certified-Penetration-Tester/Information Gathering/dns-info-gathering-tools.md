@@ -61,7 +61,7 @@ DNS information gathering refers to the process of collecting and analyzing data
   - Include a suitable 'Conclusion' highlighting the outcome of using DNS information gathering tools
 
 
-## Solutions With Scripts
+## Practical Approach
 1. 
 
 
