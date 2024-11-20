@@ -32,4 +32,4 @@ A well-configured software development environment (SDE) is essential for progra
 - Include your PHP script in the XAMPP "htdocs" directory
 - Browse to the PHP file hosted on the localhost (127.0.0.1) to verify the correct PHP version is displayed
 
-
+## Practical Approach
